@@ -1,4 +1,4 @@
-## STEFANIE-BETA-V-8.5
+## Scarlet V2
 
 ![Github Visitors](https://visitor-badge.glitch.me/badge?page_id=Kaweeshachamodk/STEFANIE-BETA-V-8.5&left_color=blueviolet&right_color=brightgreen)
 
@@ -8,7 +8,7 @@
 
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?color=%23F70808&lines=𝗪𝗲𝗹𝗰𝗼𝗺𝗲;𝗧𝗼+STEFANIE+BETA;VERSION+🕵️‍♂️&font=Fira%20Code&center=true&width=250&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%23F70808&lines=𝗪𝗲𝗹𝗰𝗼𝗺𝗲;𝗧𝗼+Scarlet;VERSION+🕵️‍♂️&font=Fira%20Code&center=true&width=250&height=50">
 
 ----
 
@@ -22,9 +22,9 @@
 
        ⚡ ◁====BETA RELEASE===▷
 
-![logo](https://telegra.ph/file/0edc0f3917fde20a7990a.jpg)
+![logo](link here)
 
-<h1 align="center"><b> 🧚Stefanie (ᴠɪᴘ) </b></h1>
+<h1 align="center"><b> 🧚Alexa (ᴠɪᴘ) </b></h1>
 
 </p>
 
@@ -32,7 +32,7 @@
 
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Stefanie+Beta&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Scarlet&font=Fira%20Code&center=true&width=380&height=50">
 
 </p>
 
@@ -44,17 +44,13 @@
 
     <br>
 
-        <a href="https://chat.whatsapp.com/KlpSnFrspoaEu2kRrjx8v4">Support Group</a> |
+        <a href="https://chat.whatsapp.com">Support Group</a> |
 
-        <a href="https://wa.me/message/YGTQBCHLAUYIL1">Virus fucker Whatsapp </a> |
+        <a href="https://wa.me">Hari Whatsapp </a> |
 
 ## ☇ Special Features ☇
 
-- ▣ Stefanie Voice Chatbot
-
-- ▣ simi simi chatbot
-
-- ▣ Replika chatbot
+- ▣ Alexa Voice Chatbot
 
 - ▣Butten menu
 
@@ -74,7 +70,7 @@
 
 <p align="center">
 
-  <a href="https://github.com/Kaweeshachamodk/STEFANIE-V5.2-BETA">
+  <a href="https://github.com/HARI-SANTH/ScarletV2">
 
     <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square"/></a>
 
@@ -82,7 +78,7 @@
 
   </a>
 
-  <a href="https://github.com/Kaweeshachamodk/STEFANIE-V5.2-BETA">
+  <a href="https://github.com/HARI-SANTH/ScarletV2">
 
     <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square">
 
@@ -94,19 +90,11 @@
 
 <p align="center">
 
-  <a href="https://github.com/Kaweeshachamodk/STEFANIE-V5.2-BETA">
+  <a href="https://github.com/HARI-SANTH/ScarletV2">
 
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxneon2%2FHashzi-X&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
 
-  
 
-  </a>
-
-  <a href="https://github.com/Kaweeshachamodk/STEFANIE-V5.2-BETA/fork">
-
-    <img src="https://img.shields.io/github/forks/xneon2/Hashzi-X?label=Fork&style=social">
-
-    
 
   </a>
 
@@ -144,7 +132,7 @@
 
   </a>
 
-  <a href="https://wa.me/94779529221">
+  <a href="https://wa.me">
 
     <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-kaweesha%20AX%20-purple&style=plastic">
 
@@ -190,7 +178,7 @@ From the first device you need to install Stefanie Bot.`
 
 #### You can easily get the QR code Repl.it .. Click the button below
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kaweeshachamodk/STEFANIE-BETA-V-8.5)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HARI-SANTH/ScarletV2)
 
 > [Sinhala Youtube Tutorial](https://youtu.be/sEtocRRzTno)
 
